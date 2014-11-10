@@ -21,6 +21,12 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
-## Post-critique summary
+## Post-critique summary and reflection
 
-## Post-critique reflection
+As a result of this critique and discussions last Wednesday, we decided that it would be best to combine
+teams and work on this project together. So, Michael, Christine, and I are now one team. This critique 
+also made us reevaluate what would work well for the language base. After further reflection, we decided not 
+to use Todo.txt as a base and instead to start from scratch.
+
+We are also looking at elucidating what an IR will look like for this language. There are definitely complexities
+here that we did not fully understand when proposing the language. We are working on how to address these.
