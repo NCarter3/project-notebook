@@ -11,7 +11,7 @@ design process.
 
 We are currently working on really pinning down what this language is going
 to look and feel like. My job has been creating a first pass of the IR. You
-should find it on the wiki. I did mostly worked on how due dates would be
+should find it on the (wiki)[https://github.com/mculhane/project/wiki]. I did mostly worked on how due dates would be
 calculated, but Michael and I met this morning and we realized that we also
 wanted to consider start dates, which adds more complexity to the language.
 
