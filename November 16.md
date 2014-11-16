@@ -21,6 +21,10 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
+* 2.75 hours -- 11/13 meeting with team
+* 2 hours -- 11/15 meeting with team
+* 2 hours -- 11/16 meeting with team
+
 ## Post-critique summary
 
 ## Post-critique reflection
