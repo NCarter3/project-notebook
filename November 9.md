@@ -67,6 +67,27 @@ how everyone is conceptualizing the language in line.
 
 I probably spent 5 hours outside of class this week.
 
-## Post-critique summary
+## Post-critique summary and reflection
 
-## Post-critique reflection
+Michael highlighted some key issues in his critique of our project last week. At that point, 
+as I said before, had been struggling heavily on how to appropriately represent the syntax and IR
+while taking into account both easy of use and feature completeness. In the last week, as Micheal 
+mentions in the feedback and as I mention in this week's notebook, I think we have made significant
+progress on this.
+
+In response to Phil's comments, I think he makes a good point about performance -- that we shouldn't
+really need to care -- but I am not sure if I agree with his assessment of the syntax and IR. He 
+does raise a good point that at the IR level we sould have already converted everything to one unit.
+However, there could actually be some functional challenges with this as we may want to treat, for example, a daily
+task differntly from one that has a specific due time. However, their are likely ways around this. 
+
+Regarding his comment about flexibility, the power of the language comes about when considering how to 
+specify relational times. That is what we are trying to accomplish. If we can get the required syntax 
+to indicate where the task stops and the time starts down to one character, we will. However, this character
+is necessary to disabiguate the task from the date statement. 
+
+Phil is also correct in noticing that currently the syntax and the IR are closely related. We have not spent 
+a long time thinking about how to specify the syntax briefly, so it makes sense that the "logical" representation
+of the language currently closely mirrors the syntax. This may or may not change as we go.
+
+
