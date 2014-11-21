@@ -22,6 +22,8 @@ you?**
 team, how did you share the labor?**
 
 11/18 3 hours. Worked on Sublime UI framework
+11/18 1 hours. Worked on Critique for Phil
+11/20 2.5 hours. Working on Sublime UI, specifically on getting a syntax definition
 
 ## Post-critique summary
 
