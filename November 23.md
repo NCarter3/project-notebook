@@ -27,6 +27,10 @@ team, how did you share the labor?**
 
 11/20 2.5 hours. Working on Sublime UI, specifically on getting a syntax definition
 
+11/21 0.5 hours. Continuing refinement of UI.
+
+11/22 3.0 hours. Continuing to work on UI. Fixed some bugs!
+
 ## Post-critique summary
 
 ## Post-critique reflection
