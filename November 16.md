@@ -60,6 +60,7 @@ team, how did you share the labor?**
 
 Total: about 8 hours outside of class.
 
-## Post-critique summary
+## Post-critique summary and reflection
 
-## Post-critique reflection
+Phil highlighted some good issues that we need to keep in mind, and some that we have already fixed. In particular, we've already worked on the concerns with language selection and coupling. However, we do still need to be concerned about how we handle errors. It is definitely something that we have not totally worked through yet. Hopefully we will be able to show the user immediately when something fishy happens. We need to think through how that will happen though. Some things we can catch through syntax highlighting, but that will not be all things. For our users to trust the system, it will have to be reliable, so we need to make sure to throw errors when anything bad happens.
+
