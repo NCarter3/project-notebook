@@ -21,6 +21,8 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
+11/24 2.5 hours. Connecting the scala component to the python part. This took way to long.
+
 ## Post-critique summary
 
 ## Post-critique reflection
