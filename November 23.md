@@ -71,6 +71,6 @@ team, how did you share the labor?**
 
 11/23 1 hours. Worked on journal.
 
-## Post-critique summary
+## Post-critique summary and reflection
 
-## Post-critique reflection
+It looks like we didn't get any critiques last week... So sad face :-(
