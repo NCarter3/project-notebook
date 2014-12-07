@@ -21,6 +21,8 @@ you?**
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
+11:30 - 1:30 and 2:30 - 6:30 12/6
+
 ## Post-critique summary and reflection
 
 As a result of this critique and discussions last Wednesday, we decided that it would be best to combine
