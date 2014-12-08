@@ -2,26 +2,41 @@
 
 ## Description
 
-**TODO:** Fill in this part with information about your work this week:
-important design decisions, changes to previous decisions, open questions,
-exciting milestones, preliminary results, etc. Feel free to include images
-(e.g., a sketch of the design or a screenshot of a running program), links to
-code, and any other resources that you think will help clearly convey your
-design process.
+This week I worked on getting human readable dates to work as inputs. I
+used a python package to convert the dates. Currently, the program
+reformats the dates to be absolute and unambiguous when the user
+saves the file. This is not necessarily ideal, but it seems like 
+a good first pass. If you have better ideas, let me know!
+
+I also added a snippet syntax for entering new tasks. The system
+now supports typing `alt+a` to add a task. The task is added in the 
+form of a snippet with a hashtag already generated and the ability to
+tab through feilds. 
+
+I though about how I am going to add done support too. I did some 
+experimentation about how to implement it but didn't get very far
+yet.
 
 ## Questions
 
 **What is the most pressing issue for your project? What design decision do
 you need to make, what implementation issue are you trying to solve, or how
-are you evaluating your design and implementation?**
-
-**What questions do you have for your critique partners? How can they best help
+are you evaluating your design and implementation? What questions do you have 
+for your critique partners? How can they best help
 you?**
+
+We need to think about how to surface error, when, where, and how aggressivly. 
+Obviously, this type of tool needs to be trusted. So, we need to make sure
+that when an error happens that it is recognized. However, as we are working
+with human inputs, there may be times that things do get misinterpreted or
+fail. Where and how should this information be surfaced?
 
 **How much time did you spend on the project this week? If you're working in a
 team, how did you share the labor?**
 
-11:30 - 1:30 and 2:30 - 6:30 12/6
+6 hours, 11:30 - 1:30 and 2:30 - 6:30 12/6, adding features
+2 hours, 12/7, thinking about how to add done support, notebook, team interfacing
+
 
 ## Post-critique summary and reflection
 
